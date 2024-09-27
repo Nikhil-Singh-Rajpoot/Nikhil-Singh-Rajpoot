@@ -1,8 +1,8 @@
-img src="https://github.com/Nikhil-Singh-Rajpoot/Nikhil-Singh-Rajpoot/blob/main/banner.png" align="center" />
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 
 # Hi there! 👋 I'm NIKHIL KUMAR SINGH ![wave](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" align="right"/>
+<img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="450" align="right"/>
 
 ## 🚀 Java Backend Developer | Microservices |
 I'm a passionate backend developer who loves working with **Java** and **Spring Boot** to build scalable and efficient systems. I’m always learning, growing, and contributing to open-source projects. 💡
