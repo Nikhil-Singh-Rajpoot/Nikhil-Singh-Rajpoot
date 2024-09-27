@@ -1,3 +1,5 @@
+img src="https://github.com/banner-bg.jpg" align="center" />
+
 # Hi there! 👋 I'm NIKHIL KUMAR SINGH ![wave](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" align="right"/>
