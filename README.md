@@ -1,4 +1,4 @@
-img src="https://github.com/Nikhil-Singh-Rajpoot/Nikhil-Singh-Rajpoot/blob/main/banner-bg.jpg" align="center" />
+img src="[https://github.com/Nikhil-Singh-Rajpoot/Nikhil-Singh-Rajpoot/blob/main/banner-bg.jpg](https://github.com/Nikhil-Singh-Rajpoot/Nikhil-Singh-Rajpoot/blob/main/banner.png)" align="center" />
 
 # Hi there! 👋 I'm NIKHIL KUMAR SINGH ![wave](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
